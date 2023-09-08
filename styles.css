@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #333; 
+}
+.navbar-toggler-icon {
+    color: #fff; 
+}
+.dropdown-menu {
+    width: 100%;
+    background-color: #fff; 
+}
+.drop-down-item{
+      background-color: blueviolet;
+}
+.page-heading {
+    text-align: center;
+}
+.tall-section {
+    height: 1000px;
+    background-color: grey; 
+}
+.tall section h1{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    background-color: darkcyan;
+}
+body{
+    background-color: grey;
+}
